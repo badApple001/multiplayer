@@ -7,7 +7,7 @@ git: https://github.com/colyseus/unity-demo-shooting-gallery.git
 server:
 	nodejs + typescript + colyseus
 	
-	colyseus framework document: https://docs.colyseus.io/colyseus/
+	colyseus framework document: https://docs.colyseus.io/colyseus/demo/shooting-gallery/
 	
 	init:
 		npm i
